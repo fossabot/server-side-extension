@@ -5,7 +5,8 @@ SSE is part of the Advanced Analytics Integration (AAI) concept at Qlik.
 This repository includes documentation that describes the SSE protocol, how to use it and how to build your own plugins. Currently we have examples written in a few different languages only but examples in more languages will come later.  
 
 ## Status
-[![CircleCI](https://circleci.com/gh/qlik-oss/server-side-extension.svg?style=shield)](https://circleci.com/gh/qlik-oss/server-side-extension)  
+[![CircleCI](https://circleci.com/gh/qlik-oss/server-side-extension.svg?style=shield)](https://circleci.com/gh/qlik-oss/server-side-extension) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fserver-side-extension.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fserver-side-extension?ref=badge_shield)
+ 
 
 **Current Plugin Version and State:** v1.0.0  
 **Matching Qlik Sense Version:** Qlik Sense 2017 release (or later). Both desktop and enterprise.  
@@ -38,3 +39,7 @@ This repository includes documentation that describes the SSE protocol, how to u
 
 ## Contributing
 Please follow the instructions in [CONTRIBUTING.md](.github/CONTRIBUTING.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fserver-side-extension.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fserver-side-extension?ref=badge_large)
